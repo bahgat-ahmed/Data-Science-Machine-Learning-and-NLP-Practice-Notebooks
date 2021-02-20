@@ -2,8 +2,8 @@
 
 In general, there are three steps required for better skill acquisition:
 1. Knowledge
-2. Accumulative Experience.
-3. Practice.
+2. Accumulative Experience
+3. Practice
 
 Firstly, knowledge is related to the theoretical part, or in other words the Science behind the skill. Secondly, Accumulative Experience is developed by your different diversified experiences you have in what you learned before since you might link new things in a different way based on your previous experience.
 
