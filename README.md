@@ -14,3 +14,7 @@ Data Science, Machine Learning, and Natural Language Processing "NLP" are also s
 Therefore guided by other practitioners, and Notebooks in this field, implementing them with myself while trying to analyze why they took each step and the different relations between different steps will help me become a better Machine Learning and NLP engineer.
 
 In this repository I will upload different notebooks I implemented with myself after finishing them, and I will mention the reference from which I have got these Notebooks.
+
+## References
+
+* [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
